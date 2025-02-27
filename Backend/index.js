@@ -28,7 +28,6 @@ app.get("/", (req, res) => {
 
 app.use("/auth", authRoutes);
 
-// ✅ WebSocket Logic (Fixed sender duplicate issue)
 io.on("connection", (socket) => {
     console.log("User connected:", socket.id);
 
