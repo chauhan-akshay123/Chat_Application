@@ -4,6 +4,9 @@
 
 This is a real-time chat application built with **Node.js, Express.js, MongoDB, Socket.io**, and **JWT authentication**. The application allows users to register, log in, and exchange messages in real-time using WebSockets.
 
+## Check this out
+
+
 ## Features
 
 - User authentication with JWT (Register & Login)
