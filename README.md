@@ -132,8 +132,8 @@ The chat application follows a relational structure in MongoDB with the followin
 
 This design ensures that each message is linked to a sender and a receiver, making it easier to retrieve chat histories efficiently.
 
-![Users table](Users_db.png)
-![Messages Table](Messages_db.png)
+![Users table](Users_Db.png)
+![Messages Table](Messages_Db.png)
 
 ## Frontend Integration
 
