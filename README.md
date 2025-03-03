@@ -5,7 +5,9 @@
 This is a real-time chat application built with **Node.js, Express.js, MongoDB, Socket.io**, and **JWT authentication**. The application allows users to register, log in, and exchange messages in real-time using WebSockets.
 
 ## Check this out
-
+![Chat Login](Log.png)
+![chat](chat1.png)
+![chat](chat2.png)
 
 ## Features
 
@@ -129,6 +131,9 @@ The chat application follows a relational structure in MongoDB with the followin
 ```
 
 This design ensures that each message is linked to a sender and a receiver, making it easier to retrieve chat histories efficiently.
+
+![Users table](Users_db.png)
+![Messages Table](Messages_db.png)
 
 ## Frontend Integration
 
